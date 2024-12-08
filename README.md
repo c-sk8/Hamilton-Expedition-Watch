@@ -1,12 +1,22 @@
 # Hamilton Expedition Black
 
-This clock design is based on the Hamilton Khaki Field Expedition Automatic watch. If I am breaking any copyright rules by copying the design of this watch then I am happy to remove this project, but I am a big fan Hamilton watches and the designs they use.
+This clock or watch design is based on the:
 
-This project uses hand crafted **SVG** files, and is made into a working clock using
-Javascript, CSS, and HTML.
+**Hamilton Khaki Field Expedition Automatic**
 
-The size of the clock is fairly small which fits well onto a small display like that of an iPhone.
-By zooming in using your browser you can fill the screen for larger displays.
-Because it is made with SVG the shapes will always have sharp edges.
+If I am breaking any copyright rules by copying the design of this watch then I am happy to remove
+this project, but I am a big fan Hamilton watches and the designs they use.
 
-The end result can be viewed Here: https://c-sk8.github.io/hamilton-expedition-black/
+This project uses hand crafted **SVG** files made with **Affinity Designer 2**.
+
+To turn the SVG files into a working clock there are files containing:
+- Javascript
+- CSS
+- HTML
+
+Using your browser to zoom in or out you can change the size of the clock.
+Because it is made using SVG files it looks good at any size.
+
+The end result can be viewed here:
+
+https://c-sk8.github.io/hamilton-expedition-black/
