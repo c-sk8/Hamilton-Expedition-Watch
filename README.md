@@ -23,5 +23,5 @@ The end result can be viewed here:
 
 https://c-sk8.github.io/hamilton-expedition-black/
 
-![svg-hamilton-watch](https://github.com/user-attachments/assets/ace923d4-5f86-4276-ac6f-83d20a173775)
+<img src="https://github.com/user-attachments/assets/ace923d4-5f86-4276-ac6f-83d20a173775" width="686px;" />
 
