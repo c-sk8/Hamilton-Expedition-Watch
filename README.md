@@ -11,7 +11,7 @@ Using your browser to **zoom in** or **zoom out** you can change the size of the
 Because it is made using SVG files it looks good at any size. I have only tested
 using the Safari browser on my Mac and iPhone.
 
-The end result can be viewed here: https://c-sk8.github.io/hamilton-expedition-black/
+The end result can be viewed here: https://c-sk8.github.io/hamilton/
 
 <a href="https://c-sk8.github.io/hamilton-expedition-black/"><img src="https://raw.githubusercontent.com/c-sk8/Hamilton-Expedition-Watch/refs/heads/main/image/preview.png" alt="no image" width="333"/></a>
 
